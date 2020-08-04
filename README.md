@@ -63,7 +63,6 @@
 - [Multilingual Twitter Sentiment Classification: The Role of Human Annotators](https://arxiv.org/abs/1602.07563v2)
 - [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://arxiv.org/abs/1810.02508v6)
 
-- add paper name and link
 
 # Data Augmentation
 - add paper name and link
