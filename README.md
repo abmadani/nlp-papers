@@ -59,6 +59,10 @@
 - [Neural Architectures for Named Entity Recognition](https://www.aclweb.org/anthology/N16-1030/)
 
 # Sentiment Analysis
+- [DepecheMood++: a Bilingual Emotion Lexicon Built Through Simple Yet Powerful Techniques](https://arxiv.org/abs/1810.03660v1)
+- [Multilingual Twitter Sentiment Classification: The Role of Human Annotators](https://arxiv.org/abs/1602.07563v2)
+- [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://arxiv.org/abs/1810.02508v6)
+
 - add paper name and link
 
 # Data Augmentation
